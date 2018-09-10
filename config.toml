@@ -1,0 +1,4 @@
+baseURL = "https://hweisheimer.com/"
+languageCode = "en-us"
+title = "idk my blog i guess"
+theme = "one"
